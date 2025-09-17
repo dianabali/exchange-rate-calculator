@@ -14,9 +14,9 @@ The calculator displays two dropdowns for selecting the currencies, input fields
 - **JavaScript** - fetching API data and uploading DOM.
 - **ExchangeRate API** - currency conversion rates.
 
-### Installation guide
+## Installation guide
 1. Clone this repository: ``git clone https://github.com/dianabali/exchange-rate-api.git``
 2. Open ``index.html`` in your browser.
 
-### Images
+## Images
 ![Screenshot](preview/exchange-rate-calculator.png)
