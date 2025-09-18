@@ -11,7 +11,7 @@ The calculator displays two dropdowns for selecting the currencies, input fields
 ### Technologies used
 - **HTML5** - structure.
 - **CSS** - styling.
-- **JavaScript** - fetching API data and uploading DOM.
+- **JavaScript / jQuery** - fetching API data and uploading DOM.
 - **ExchangeRate API** - currency conversion rates.
 
 ## Installation guide
